@@ -27,7 +27,10 @@ I had took about 1 to 2 hours approximately.
 
 ## PROJECT LIVE LINK
 
-SEE PROJECT LIVE : 
+SEE PROJECT LIVE : [Live Link](https://html-css-project01.vercel.app/)
 
-## CONTACT ME
-[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/vivekranjan0144/)
+## CONNECT WITH ME ON
+- [FACEBOOK](https://www.facebook.com/vivekranjan0144/)
+- [INSTAGRAM](https://www.instagram.com/vivekranjan0144/)
+- [TWITTER](https://twitter.com/vivekranjan0144?lang=en)
+
