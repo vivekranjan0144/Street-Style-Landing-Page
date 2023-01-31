@@ -41,6 +41,10 @@
     gap: 0.4em;
 }
 
+.fas.fa-bars {
+    display: none;
+}
+
 .search-icon svg {
     height: 1.4em;
 }
@@ -96,7 +100,7 @@
     z-index: -1;
 }
 
-.square img{
+.square img {
     width: 18em;
     height: 20em;
 }
@@ -130,6 +134,7 @@
     width: 12em;
     height: 2em;
     border-radius: 0.4em;
+    cursor: text;
 }
 
 .button-join {
@@ -139,6 +144,7 @@
     width: 7em;
     height: 2em;
     border-radius: 0.4em;
+    cursor: pointer;
 }
 
 .contact-heading {
@@ -148,8 +154,109 @@
 .icons {
     margin-top: 1em;
     margin-left: -4em;
+    cursor: pointer;
 }
 
 .icons span {
     margin-left: 0.5em;
 }
+
+/*-------------------------media query-------------------------------*/
+
+@media screen and (max-width:1073px) {
+    .list {
+        display: none;
+    }
+
+    .hero-container-right {
+        flex-wrap: wrap;
+    }
+
+    .fas.fa-bars {
+        display: initial;
+        font-size: 2.5em;
+    }
+
+    .button-group {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width:1000px) {
+    .hero-container {
+        flex-wrap: wrap;
+        gap: 5em;
+    }
+
+    .button-group {
+        display: none;
+    }
+
+    .hero-container-right {
+        gap: 2em;
+        margin: 0 auto;
+    }
+
+    .hero-heading {
+        font-size: 3em;
+        text-align: center;
+    }
+
+    .hero-description {
+        width: 40vw;
+    }
+
+    .hero-container>div>img {
+        height: 400px;
+        position: relative;
+        top: 10%;
+        left: 60%;
+    }
+
+    .square {
+        left: 32%;
+        top: 21%;
+    }
+
+    .star {
+        display: none;
+    }
+
+    .hero-container::after {
+        display: none;
+    }
+
+    .globe {
+        display: none;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:812px) {
+    .hero-container>div:nth-child(4) {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hero-container>div>img {
+        height: 380px;
+        position: static;
+        margin-top: 1.5em;
+    }
+
+    .square>img {
+        height: 300px;
+    }
+
+    .square {
+        left: 19%;
+    }
+}
+
+/*-------------------------------------------------------------------*/
