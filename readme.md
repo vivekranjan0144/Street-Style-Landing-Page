@@ -2,8 +2,7 @@
 # HTML-CSS PROJECT-1
 
 This is one page portfolio Template project made with technology HTML & CSS.
-I haven't made it responsive it only works in desktop/laptop screen.
-I will make it responsive ASAP.
+It is screen responsive.
 
 
 ## 🛠 Technologies Used
@@ -13,7 +12,7 @@ I will make it responsive ASAP.
   - CSS Flex Box
 
 ## Demo
-  ![Semantic description of image](/demo/project-1.gif)
+[Project-1.webm](https://user-images.githubusercontent.com/100980716/215964870-7ccc7f25-35f7-406a-a646-f41aec920ac6.webm)
 
 
 ## What i have learnt By working on this project
@@ -27,7 +26,7 @@ I had took about 1 to 2 hours approximately.
 
 ## PROJECT LIVE LINK
 
-SEE PROJECT LIVE : [Live Link](https://html-css-project01.vercel.app/)
+SEE PROJECT LIVE : [Live Link](https://html-css-project01.netlify.app/)
 
 ## CONNECT WITH ME ON
 - [FACEBOOK](https://www.facebook.com/vivekranjan0144/)
