@@ -17,12 +17,11 @@ https://user-images.githubusercontent.com/100980716/215967254-b00b61da-7f0b-4aac
 
 ## What i have learnt By working on this project
 1. I have improved my self in reserching on the internet
-2. Got understanding about selectors
+2. Learned about the different types of selectors in CSS
 3. I learned to use the CSS position and flexbox property
 
 ## Honest Time to finish the project
-
-I had took about 1 to 2 hours approximately.
+This project took about 2-2.5 hours to complete.
 
 ## PROJECT LIVE LINK
 
