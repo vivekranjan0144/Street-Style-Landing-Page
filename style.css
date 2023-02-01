@@ -4,6 +4,9 @@
     font-family: Orbitron;
 }
 
+
+/*-------------------------navBar-------------------------------*/
+
 .navbar-container {
     display: flex;
     justify-content: space-between;
@@ -57,6 +60,10 @@
     border-radius: 0.7em;
     cursor: text;
 }
+
+/*--------------------------------------------------------------*/
+
+/*-------------------------Hero-Section-------------------------*/
 
 .hero-container {
     display: flex;
@@ -148,58 +155,58 @@
 }
 
 .contact-heading {
+    text-align: center;
     color: #666666;
 }
 
 .icons {
     margin-top: 1em;
-    margin-left: -4em;
     cursor: pointer;
 }
 
 .icons span {
     margin-left: 0.5em;
 }
+/*--------------------------------------------------------------*/
 
-/*-------------------------media query-------------------------------*/
+/*-------------------------media query--------------------------*/
 
 @media screen and (max-width:1073px) {
     .list {
         display: none;
     }
 
-    .hero-container-right {
-        flex-wrap: wrap;
-    }
-
     .fas.fa-bars {
         display: initial;
         font-size: 2.5em;
     }
-
+    
     .button-group {
         display: none;
     }
-
+    
+    .hero-container-right {
+        flex-wrap: wrap;
+    }
 }
 
 @media screen and (max-width:1000px) {
+    .button-group {
+        display: none;
+    }
+    
     .hero-container {
         flex-wrap: wrap;
         gap: 5em;
     }
-
-    .button-group {
-        display: none;
-    }
-
+    
     .hero-container-right {
         gap: 2em;
         margin: 0 auto;
     }
 
     .hero-heading {
-        font-size: 3em;
+        font-size: 9vw;
         text-align: center;
     }
 
@@ -235,6 +242,10 @@
         display: flex;
         flex-direction: column;
     }
+
+    .contact-heading {
+        margin-top: 1em;
+    }
 }
 
 @media screen and (max-width:812px) {
@@ -250,6 +261,10 @@
         margin-top: 1.5em;
     }
 
+    .hero-description {
+        width: 60vw;
+    }
+
     .square>img {
         height: 300px;
     }
@@ -257,6 +272,14 @@
     .square {
         left: 19%;
     }
+
+    .hero-description+div {
+        display: flex;
+        flex-wrap: wrap;
+        border: 2px solid green;
+        justify-content: center;
+        gap: 0.5em;
+    }
 }
 
-/*-------------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
