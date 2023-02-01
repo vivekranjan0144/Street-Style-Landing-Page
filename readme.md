@@ -1,8 +1,7 @@
 
 # HTML-CSS PROJECT-1
 
-This is one page portfolio Template project made with technology HTML & CSS.
-It is screen responsive.
+This is one page portfolio Template project made with technology HTML & CSS. I have made it responsive it works in both desktop screen and mobile screen.
 
 
 ## 🛠 Technologies Used
@@ -11,9 +10,10 @@ It is screen responsive.
   - CSS Position
   - CSS Flex Box
 
-## Demo
+## Demo Video in Desktop Screen
 [Project-1.webm](https://user-images.githubusercontent.com/100980716/215964870-7ccc7f25-35f7-406a-a646-f41aec920ac6.webm)
-
+## Demo Video in Mobile Screen
+https://user-images.githubusercontent.com/100980716/215967254-b00b61da-7f0b-4aac-9f15-4c025069cc65.mp4
 
 ## What i have learnt By working on this project
 1. I have improved my self in reserching on the internet
