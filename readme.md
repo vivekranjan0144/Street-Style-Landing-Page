@@ -3,7 +3,6 @@
 
 This is one page portfolio Template project made with technology HTML & CSS. I have made it responsive it works in both desktop screen and mobile screen.
 
-
 ## 🛠 Technologies Used
   - HTML - Hyper Text Markup Language
   - CSS - Cascadeing Spread Sheet
@@ -31,4 +30,3 @@ SEE PROJECT LIVE : [Live Link](https://html-css-project01.netlify.app/)
 - [FACEBOOK](https://www.facebook.com/vivekranjan0144/)
 - [INSTAGRAM](https://www.instagram.com/vivekranjan0144/)
 - [TWITTER](https://twitter.com/vivekranjan0144?lang=en)
-
